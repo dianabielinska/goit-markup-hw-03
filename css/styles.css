@@ -155,6 +155,7 @@ img {
 
 .features {
   background-color: #ffffff;
+  padding: 120px 0;
 }
 .visually-hidden {
   position: absolute;
@@ -171,7 +172,6 @@ img {
 
 .features-list {
   display: flex;
-  padding: 120px 0;
   gap: 24px;
   align-items: center;
 }
@@ -297,8 +297,9 @@ img {
 }
 
 .portfolio-item-overlay {
-  padding: 32px 16px;
+  padding: 32px 0;
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
 
 .footer {
