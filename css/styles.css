@@ -275,7 +275,8 @@ img {
   justify-content: center;
   column-gap: 24px;
   row-gap: 48px;
-  padding-bottom: 120px;
+}
+.portfolio-item {
   width: calc((100% - 48px) / 3);
 }
 
