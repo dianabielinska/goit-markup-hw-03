@@ -198,6 +198,7 @@ img {
 
 .team {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 
 .team-title {
@@ -209,7 +210,6 @@ img {
   color: #2e2f42;
   text-transform: capitalize;
   min-width: 162px;
-  padding-top: 120px;
   margin-bottom: 72px;
 }
 
@@ -217,7 +217,6 @@ img {
   display: flex;
   align-items: center;
   gap: 24px;
-  padding-bottom: 120px;
 }
 
 .team-item {
